@@ -46,9 +46,6 @@ I am a Flutter developer. I have been learning to code for 2 years
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-
-
-
 ### Hi there 👋
 
 <!--
