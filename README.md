@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile developer
 ----------------
 
-I am a Flutter developer. I have been learning to code for 2 years
+I am a Flutter developer. I have been learning to code for 1 years
 
 * 🌍  I'm based in Kyrgyzstan, Bishkek
 * 🧠  I'm learning Flutter
